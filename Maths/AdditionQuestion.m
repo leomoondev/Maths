@@ -29,7 +29,6 @@
         // Add the '+' sign to the part of the question
         NSString *question = [myStrings componentsJoinedByString:@" + "];
         
-
         NSLog(@"%@ ?",question);
         
         // Adding the 2 random numbers to get the answer

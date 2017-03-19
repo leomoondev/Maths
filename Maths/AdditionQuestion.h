@@ -15,6 +15,4 @@
 @property (nonatomic, retain) NSString* question;
 @property (nonatomic, assign) NSInteger answer;
 
-
-
 @end
